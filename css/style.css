@@ -19,7 +19,8 @@ body {
 
 .row {
   max-width: 76rem;
-  margin: 0 auto; }
+  margin: 0 auto;
+  padding: 2rem; }
 
 .book-form {
   width: 100%;
